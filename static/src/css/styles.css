@@ -1,6 +1,55 @@
 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
+
+:root{
+    --white: hsl(0, 0%, 100%);
+    --light-gray: hsl(212, 45%, 89%);
+    --grayish-blue: hsl(220, 15%, 55%);
+    --dark-blue: hsl(218, 44%, 22%);
+}
+html, body {
+    height: 100%;
+}
 body{
-    background-color: pink;
+    background-color: var(--grayish-blue);
+    margin: 0;
+
+}
+.container, .qr-container, .content{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.container{
+    background: var(--white);
+    width: fit-content;
+    flex-direction: column;
+    margin: auto;
+    max-height: 498px;
+    max-width: 324px;
+    border-radius: 8px;
+}
+
+.qr-container img{
+    max-width: 90%;
+    max-height: 90%;
+    border-radius: 8px;
+    margin: 16px;
+}
+
+.content-heading{
+    font-size: 15px;
+    font-weight: 700;
+    margin: 16px auto;
+    max-width: 55%;
+    text-align: center;
+}
+
+.content-body{
+    font-size: 15px;
+    font-weight: 400;
+    color: lightgrey;
+    margin: 16px;
+    text-align: center;
 }
