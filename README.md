@@ -65,7 +65,7 @@ Further developements plans:
 5. Improve accessiblity
 ### Useful resources
 
-- [Page ruler](chrome-extension://giejhjebcalaheckengmchjekofhhmal/options.html) - To measure the sizes and make as pixel perfect as possible
+- [Page ruler](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal) - To measure the sizes and make as pixel perfect as possible
 - [Mozilla responsive image docs](https://www.example.com) - Readup on responsive images guidelines.
 - [Box shadow](https://css-tricks.com/almanac/properties/b/box-shadow/) - Box shadows for reference.
 
