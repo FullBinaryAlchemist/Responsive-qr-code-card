@@ -20,8 +20,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [WIP](https://your-live-site-url.com)
+- Solution URL: [Github repo](https://github.com/FullBinaryAlchemist/Responsive-qr-code-card/)
+- Live Site URL: [Github pages](https://fullbinaryalchemist.github.io/Responsive-qr-code-card/)
 
 ## My process
 
@@ -68,7 +68,7 @@ Further developements plans:
 - [Page ruler](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal) - To measure the sizes and make as pixel perfect as possible
 - [Mozilla responsive image docs](https://www.example.com) - Readup on responsive images guidelines.
 - [Box shadow](https://css-tricks.com/almanac/properties/b/box-shadow/) - Box shadows for reference.
-
+- [Naming convention](https://stackoverflow.com/questions/7927193/css-class-naming-convention)
 ## Author
 
 - Website - [Divyanshu Gupta](https://in.linkedin.com/in/dg-divyanshu-gupta)
